@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+#algae_img{
+  width: 175px;
+  height: 175px;
+}
+
+#chlorine_img{
+  width: 175px;
+  height: 175px;
+}
+
+#filter_img{
+  width: 175px;
+  height: 175px;
+}
+
+#crack_img{
+  width: 175px;
+  height: 175px;
+}
+
+#murky_img{
+  width: 175px;
+  height: 175px;
+}
+
+#other_img{
+  width: 175px;
+  height: 175px;
+}
